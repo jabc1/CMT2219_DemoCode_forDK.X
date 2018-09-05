@@ -1,0 +1,12 @@
+#include "dk_hal.h"
+
+byte 	RxTimeout;
+byte	RxLimtTime;
+
+byte 	RxData[32];
+
+FlagSTR _SysTime;
+FlagSTR _SecTime;
+
+
+

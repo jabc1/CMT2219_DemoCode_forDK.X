@@ -1,0 +1,10 @@
+---- RFM219 Matches (9 in 1 files) ----
+Main.c (c:\840m\cmt2219a_democode_fordk.x\cmt2219_democode_fordk.x\src)://        RFM219-CSB--|RA0               |
+Main.c (c:\840m\cmt2219a_democode_fordk.x\cmt2219_democode_fordk.x\src)://        RFM219-GPO4-|RA1            RD7|---Rx-LED
+Main.c (c:\840m\cmt2219a_democode_fordk.x\cmt2219_democode_fordk.x\src)://        RFM219-GPO3-|RA2            RD6|
+Main.c (c:\840m\cmt2219a_democode_fordk.x\cmt2219_democode_fordk.x\src)://            XO-16MHz|               RD0|-GPO1-RFM219
+Main.c (c:\840m\cmt2219a_democode_fordk.x\cmt2219_democode_fordk.x\src)://               KEY1-|RB0            RC4|--SDA-RFM219
+Main.c (c:\840m\cmt2219a_democode_fordk.x\cmt2219_democode_fordk.x\src)://	        	 KEY2-|RB1            RC3|--SCK-RFM219
+Main.c (c:\840m\cmt2219a_democode_fordk.x\cmt2219_democode_fordk.x\src)://        RFM219-GPO2-|RB4               |  XO-32KHz
+Main.c (c:\840m\cmt2219a_democode_fordk.x\cmt2219_democode_fordk.x\src)://        RFM219-FCSB-|RB5            RC0|-----|
+Main.c (c:\840m\cmt2219a_democode_fordk.x\cmt2219_democode_fordk.x\src)://  RF module:           RFM219 (CMT2219)
